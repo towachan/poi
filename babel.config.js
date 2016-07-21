@@ -5,7 +5,8 @@ module.exports = {
     ["transform-async-to-module-method", {
       module: "bluebird",
       method: "coroutine"
-    }]
+    }],
+    ["babel-root-import"]
   ],
   ignore: false,
   only: /.es$/

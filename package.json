@@ -88,6 +88,7 @@
     "electron-builder": "^5.4.3",
     "electron-prebuilt": "^1.2.5",
     "eslint": "^2.13.1",
+    "eslint-import-resolver-babel-root-import": "0.0.2",
     "eslint-plugin-import": "^1.9.2",
     "eslint-plugin-react": "^5.2.2",
     "git-archive": "^0.1.4",

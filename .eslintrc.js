@@ -42,6 +42,7 @@ module.exports = {
       'node': {
         'extensions': ['', '.js', '.jsx', '.es', '.coffee', '.cjsx']
       },
+      "babel-root-import": {},
     },
     'import/core-modules': ['electron'],
   },
