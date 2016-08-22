@@ -135,8 +135,7 @@
         "7z",
         "deb",
         "rpm",
-        "pacman",
-        "AppImage"
+        "pacman"
       ]
     }
   },
